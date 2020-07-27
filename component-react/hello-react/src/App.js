@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React {name === 'jichun'?(<h1>천종익!</h1>) :(<p>천종익!!</p>)}
+          Learn React {name === 'jichun'?(<h1>천종익!</h1>) :(<p>강나현</p>)}
         </a>
       </header>
     </div>
